@@ -1,3 +1,4 @@
+//using linear probing
 #include <stdio.h>
 #include<stdlib.h>
 
